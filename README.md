@@ -66,5 +66,4 @@ Key Analyses:
 - Matplotlib, Seaborn
 - Jupyter Notebook or Python Script
 
-## Project Structure
 
